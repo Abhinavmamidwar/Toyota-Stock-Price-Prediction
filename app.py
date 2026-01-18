@@ -114,4 +114,4 @@ try:
 
 except Exception as e:
     st.error(f"⚠️ Critical Error: {e}")
-    st.info("Check if 'toyota_model.h5', 'scaler.gz', and 'Toyota_Data.csv' are in the project folder.")s
+    st.info("Check if 'toyota_model.h5', 'scaler.gz', and 'Toyota_Data.csv' are in the project folder.")
